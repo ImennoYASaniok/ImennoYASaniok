@@ -17,11 +17,11 @@ My technical background started with robotics, which gave me a strong foundation
 
 My core competencies:
 
-· Full-Stack Web Development: Python, Kotlin, React, Node.js, PostgreSQL, flask, FastApi
+· **Full-Stack Web Development**: Python, Kotlin, React, Node.js, PostgreSQL, flask, FastApi
 
-· Data Science & ML Engineering: Big Data processing, data analysis, and machine learning. Python, Pandas, Numpy, Matplotlib, Scikit-learn, OpenCV, ClickHouse, DataLens
+· **Data Science & ML Engineering**: Big Data processing, data analysis, and machine learning. Python, Pandas, Numpy, Matplotlib, Scikit-learn, OpenCV, ClickHouse, DataLens
 
-· Telegram Bots & Game Development: Creating interactive bots and PC games.
+· **Telegram Bots & Game Development**: Creating interactive bots and PC games.
 
 I'm also a creative professional, skilled in graphic design for social media (Pinterest) and songwriting.
 
@@ -38,47 +38,32 @@ I'm also a creative professional, skilled in graphic design for social media (Pi
 
 ## TECHNOLOGIES
 
-### Frontend
+### Languages
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin,cpp,cs&perline=6&titles=true)
+
+### Frontend Web
 ![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,bootstrap,html,css,javascript&perline=6&titles=true)
 
-### Backend
-![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin&perline=6&titles=true)
-
+### Backend Web
 ![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,sqlalchemy,postgresql,sqlite,pytest&perline=6&titles=true)
 
-### Big Data / Data Analysis
-![Big Data stack](https://go-skill-icons.vercel.app/api/icons?i=python&perline=6&titles=true)
+### Big Data / Data Analysis / ML Engineer
+![Big Data stack](https://go-skill-icons.vercel.app/api/icons?i=jupiter,pandas,numpy,matplotlib,seaborn,clickhouse,sklearn&perline=6&titles=true)
 
-![Big Data stack](https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,clickhouse&perline=6&titles=true)
-
-DataLens
-
-### ML Engineer
-![ML Engineer stack](https://go-skill-icons.vercel.app/api/icons?i=python&perline=6&titles=true)
-
-![ML Engineer stack](https://go-skill-icons.vercel.app/api/icons?i=sklearn&perline=6&titles=true)
-
-OpenCV
+DataLens | OpenCV
 
 ### Telegram Bots
-![Big Data stack](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin&perline=6&titles=true)
-
-![Big Data stack](https://go-skill-icons.vercel.app/api/icons?i=aiogram&perline=6&titles=true)
+![Telegram Bots stack](https://go-skill-icons.vercel.app/api/icons?i=aiogram&perline=6&titles=true)
 
 Telebot | KotlinTelegramBot
 
 ### PC Games
-![PC Games](https://go-skill-icons.vercel.app/api/icons?i=python,cs&perline=6&titles=true)
-
 ![PC Games](https://go-skill-icons.vercel.app/api/icons?i=pygame,unity&perline=6&titles=true)
 
 aseprite
 
-### Design
-![Design](https://go-skill-icons.vercel.app/api/icons?i=figma&perline=6&titles=true)
-
 ### Other
-![Other stack](https://go-skill-icons.vercel.app/api/icons?i=cpp,jupyter&perline=6&titles=true)
+![Other stack](https://go-skill-icons.vercel.app/api/icons?i=figma&perline=6&titles=true)
 
 ## CONTACTS
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&color=DDD4A3&logoColor=black)](https://t.me/ProstoSaniok)
