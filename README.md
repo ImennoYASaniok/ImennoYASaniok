@@ -10,9 +10,18 @@
 
 
 ## ABOUT
-Hello everyone, my name is Sasha. I'm from Russia, Moscow. I'm studying at school 57,class 10T. At first, I studied robotics for a long time, but after that I went deeper into programming, so I have electronics and circuit engineering skills. 
 
-I am a **fullstask websites dev, Big Data dev and data analyst, ML engineer, Telegram bots dev, PC games dev**. I am also a designer (I create presentations, posters, covers, avatars, etc - pinterest) and songwriter.
+Hi there! I'm Sasha, developer from Moscow with a diverse skill set.
+
+My technical background started with robotics, which gave me a strong foundation in electronics and circuit engineering. Since then, I've deeply immersed myself in software development.
+
+My core competencies:
+
+· Full-Stack Web Development: Python, Kotlin, React, Node.js, PostgreSQL, flask, FastApi
+· Data Science & ML Engineering: Big Data processing, data analysis, and machine learning. Python, Pandas, Numpy, Matplotlib, Scikit-learn, OpenCV, ClickHouse, DataLens
+· Telegram Bots & Game Development: Creating interactive bots and PC games.
+
+I'm also a creative professional, skilled in graphic design for social media (Pinterest) and songwriting.
 
 
 ## STATS
