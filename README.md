@@ -18,7 +18,9 @@ My technical background started with robotics, which gave me a strong foundation
 My core competencies:
 
 · Full-Stack Web Development: Python, Kotlin, React, Node.js, PostgreSQL, flask, FastApi
+
 · Data Science & ML Engineering: Big Data processing, data analysis, and machine learning. Python, Pandas, Numpy, Matplotlib, Scikit-learn, OpenCV, ClickHouse, DataLens
+
 · Telegram Bots & Game Development: Creating interactive bots and PC games.
 
 I'm also a creative professional, skilled in graphic design for social media (Pinterest) and songwriting.
