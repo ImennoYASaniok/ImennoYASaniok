@@ -39,7 +39,7 @@ I'm also a creative professional, skilled in graphic design for social media (Pi
 ## TECHNOLOGIES
 
 ### Frontend
-![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,bootstrap,html,css,javascript&perline=6&titles=true)
+![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,bootstrap,html,css,javascript&perline=6&titles=true)
 
 ### Backend
 ![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=python,kotlin&perline=6&titles=true)
