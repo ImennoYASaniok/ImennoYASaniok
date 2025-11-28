@@ -10,7 +10,9 @@
 
 
 ## ABOUT
-...
+Hello everyone, my name is Sasha. I'm from Russia, Moscow. I'm studying at school 57,class 10T. At first, I studied robotics for a long time, but after that I went deeper into programming, so I have electronics and circuit engineering skills. 
+
+I am a **fullstask websites dev, Big Data dev and data analyst, ML engineer, Telegram bots dev, PC games dev**. I am also a designer (I create presentations, posters, covers, avatars, etc - pinterest) and songwriter.
 
 
 ## STATS
