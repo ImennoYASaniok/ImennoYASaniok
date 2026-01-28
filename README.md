@@ -45,7 +45,7 @@ I'm also a creative professional, skilled in graphic design for social media (Pi
 ![Frontend stack](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,bootstrap,html,css,javascript&perline=6&titles=true)
 
 ### Backend Web
-![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,sqlalchemy,postgresql,sqlite,pytest&perline=6&titles=true)
+![Backend stack](https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,sqlalchemy,postgresql,sqlite,pytest,spring&perline=6&titles=true)
 
 ### Big Data / Data Analysis / ML Engineer
 ![Big Data stack](https://go-skill-icons.vercel.app/api/icons?i=jupiter,pandas,numpy,matplotlib,seaborn,clickhouse,sklearn&perline=6&titles=true)
@@ -58,12 +58,14 @@ DataLens | OpenCV
 Telebot | KotlinTelegramBot
 
 ### PC Games
-![PC Games](https://go-skill-icons.vercel.app/api/icons?i=pygame,unity&perline=6&titles=true)
+![PC Games](https://go-skill-icons.vercel.app/api/icons?i=pygame,unity,godot&perline=6&titles=true)
 
 aseprite
 
 ### Other
 ![Other stack](https://go-skill-icons.vercel.app/api/icons?i=figma&perline=6&titles=true)
+
+capcut
 
 ## CONTACTS
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&color=DDD4A3&logoColor=black)](https://t.me/ProstoSaniok)
