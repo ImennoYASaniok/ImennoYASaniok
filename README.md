@@ -6,8 +6,10 @@
   <a href="https://wakatime.com/@aaded748-8969-44fa-abfd-781875a7c205">
     <img src="https://wakatime.com/badge/user/aaded748-8969-44fa-abfd-781875a7c205.svg?style=flat&color=DDD4A3&labelColor=white" />
   </a>
+  <a href="https://github.com/ImennoYASaniok">
+    <img src="https://komarev.com/ghpvc/?username=ImennoYASaniok&label=profile%20views&style=flat&color=226330" alt="Profile Views" />
+  </a>
 </div>
-
 
 ## ABOUT
 
