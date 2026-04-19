@@ -29,12 +29,14 @@ I'm also a creative professional, skilled in graphic design for social media (Pi
 
 
 ## STATS
-<img align=top src="https://github-readme-stats.vercel.app/api?username=ImennoYASaniok&hide_border=true&show_icons=true&title_color=DDD4A3&icon_color=68E683&text_color=41C45D&bg_color=103017&include_all_commits=true"/>
-<br>
-<img src="https://streak-stats.demolab.com?user=ImennoYASaniok&theme=transparent&hide_border=true&background=103017&ring=68E683&fire=41C45D&currStreakNum=68E683&currStreakLabel=DDD4A3&sideNums=68E683&sideLabels=DDD4A3&dates=41C45D"/>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=ImennoYASaniok&hide_border=true&show_icons=true&title_color=DDD4A3&icon_color=68E683&text_color=41C45D&bg_color=103017&include_all_commits=true" />
+&nbsp;
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ImennoYASaniok&hide_border=true&show_icons=true&title_color=DDD4A3&icon_color=68E683&text_color=41C45D&bg_color=103017&include_all_commits=true&layout=compact&exclude_repo=zad1_NTOParcin&hide=Procfile"/>
 </div>
 <br>
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImennoYASaniok&hide_border=true&show_icons=true&title_color=DDD4A3&icon_color=68E683&text_color=41C45D&bg_color=103017&include_all_commits=true&layout=compact&exclude_repo=zad1_NTOParcin&hide=Procfile"/>
+<img src="https://streak-stats.demolab.com?user=ImennoYASaniok&theme=transparent&hide_border=true&background=103017&ring=68E683&fire=41C45D&currStreakNum=68E683&currStreakLabel=DDD4A3&sideNums=68E683&sideLabels=DDD4A3&dates=41C45D"/>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImennoYASaniok&bg_color=103017&color=68E683&line=41C45D&point=DDD4A3&hide_border=true"/>
 
@@ -55,19 +57,17 @@ I'm also a creative professional, skilled in graphic design for social media (Pi
 DataLens | OpenCV
 
 ### Telegram Bots
-![Telegram Bots stack](https://go-skill-icons.vercel.app/api/icons?i=aiogram&perline=6&titles=true)
+![Telegram Bots stack](https://go-skill-icons.vercel.app/api/icons?i=aiogram,spring&perline=6&titles=true)
 
 Telebot | KotlinTelegramBot
 
 ### PC Games
 ![PC Games](https://go-skill-icons.vercel.app/api/icons?i=pygame,unity,godot&perline=6&titles=true)
 
-aseprite
-
 ### Other
 ![Other stack](https://go-skill-icons.vercel.app/api/icons?i=figma&perline=6&titles=true)
 
-capcut
+Capcut
 
 ## CONTACTS
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&color=DDD4A3&logoColor=black)](https://t.me/ProstoSaniok)
